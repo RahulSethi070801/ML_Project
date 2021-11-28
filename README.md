@@ -11,8 +11,10 @@
 #### In this project, we work on the Australia Rain dataset from kaggle and predict whether there will be rainfall tomorrow based on today’s weather parameters. A case study of different ML models is presented along with reasoning, explaining the differences in the working of these models.
 
 ## DataSet
-#### Link for [Dataset](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package/version/2)
+#### [DataSet](https://github.com/RahulSethi070801/ML_Project/blob/main/weatherAUS.csv)
+#### You can download the Kaggle Dataset from [here](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package/version/2)
 #### The dataset used is the Australian Rain dataset on kaggle. It contains data for the last 10 years across different regions of Australia. There are 24 columns in the dataset, as shown by Table below
+#### You
 
 ## EDA and Pre-Processing
 #### All the plots for EDA and Pre-processing are added in the folder [EDA+Preprocessing](https://github.com/RahulSethi070801/ML_Project/tree/main/EDA%2BPreprocessing)
@@ -23,7 +25,7 @@
 #### [Undersampled](https://github.com/RahulSethi070801/ML_Project/blob/main/ml_project_undersampled.ipynb)
 
 ## Results and Analysis
-#### Refer to [Report_28](https://github.com/RahulSethi070801/ML_Project/blob/main/Report_T28.pdf) for results and analysis(table included)
+#### Refer to [Report_28](https://github.com/RahulSethi070801/ML_Project/blob/main/Report_T28.pdf) for results and analysis(tables included)
 #### All the plots for results are added in the folder [Results](https://github.com/RahulSethi070801/ML_Project/tree/main/Results)
 
 ## Contributors
