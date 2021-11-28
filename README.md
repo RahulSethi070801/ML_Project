@@ -1,6 +1,10 @@
-# CSE 343 Machine Learning
+# CSE 343 Machine Learning Project
 
 ## Rainfall Prediction using Machine Learning (T-28)
+
+#### Work done as a part of the course CSE 343: Machine Learning by Prof. Jainendra Shukla.
+
+## About the Project
 
 #### There are a plethora of rainfall issues around the globe, floods are an important issue leading to the devastation of life and property. Saving human life and property becomes a challenging task at the time of floods and heavy rainfall. Unsuccessful rainfall predictions can lead to huge losses, hence, it becomes a challenging problem to solve. Lack of rainfall can also lead to forest fire due to dry climates which in turn leads to huge loss of life and property.
 
@@ -11,14 +15,16 @@
 #### The dataset used is the Australian Rain dataset on kaggle. It contains data for the last 10 years across different regions of Australia. There are 24 columns in the dataset, as shown by Table below
 
 ## EDA and Pre-Processing
-#### All the plots for EDA and Pre-processing are added in the folder under the name 'EDA+Preprocessing'
+#### All the plots for EDA and Pre-processing are added in the folder [EDA+Preprocessing](https://github.com/RahulSethi070801/ML_Project/tree/main/EDA%2BPreprocessing)
 
 ## Code 
-#### We performed various ML methods and did analysis for both sampled and undersampled dataset done through sklearn library.
+#### We performed various ML methods and did analysis for both Oversampled and Undersampled dataset done through sklearn library.
+#### [Oversampled](https://github.com/RahulSethi070801/ML_Project/blob/main/ml_project_oversampled.ipynb)
+#### [Undersampled](https://github.com/RahulSethi070801/ML_Project/blob/main/ml_project_undersampled.ipynb)
 
 ## Results and Analysis
-#### Refer to 'Report_28' for results and analysis(table included)
-#### All the plots for results are added in the folder under the name 'Results'
+#### Refer to [Report_28](https://github.com/RahulSethi070801/ML_Project/blob/main/Report_T28.pdf) for results and analysis(table included)
+#### All the plots for results are added in the folder [Results](https://github.com/RahulSethi070801/ML_Project/tree/main/Results)
 
 ## Contributors
 
