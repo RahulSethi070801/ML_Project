@@ -18,8 +18,12 @@
 ## EDA and Pre-Processing
 #### All the plots for EDA and Pre-processing are added in the folder [EDA+Preprocessing](https://github.com/RahulSethi070801/ML_Project/tree/main/EDA%2BPreprocessing)
 
-## Code 
+## Methodology 
 #### We performed various ML methods and did analysis for both Oversampled and Undersampled dataset done through sklearn library.
+
+![Pipeline]()
+
+#### Code for both parts : - 
 #### [Oversampled](https://github.com/RahulSethi070801/ML_Project/blob/main/ml_project_oversampled.ipynb)
 #### [Undersampled](https://github.com/RahulSethi070801/ML_Project/blob/main/ml_project_undersampled.ipynb)
 
