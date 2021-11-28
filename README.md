@@ -11,17 +11,23 @@
 #### In this project, we work on the Australia Rain dataset from kaggle and predict whether there will be rainfall tomorrow based on today’s weather parameters. A case study of different ML models is presented along with reasoning, explaining the differences in the working of these models.
 
 ## DataSet
-#### [DataSet](https://github.com/RahulSethi070801/ML_Project/blob/main/weatherAUS.csv)
+#### [DataSet](https://github.com/RahulSethi070801/ML_Project/blob/main/DataSet/weatherAUS.csv)
 #### You can download the Kaggle Dataset from [here](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package/version/2)
 #### The dataset used is the Australian Rain dataset on kaggle. It contains data for the last 10 years across different regions of Australia. There are 24 columns in the dataset, as shown by Table below
+
+![Pipeline](https://github.com/RahulSethi070801/ML_Project/blob/main/DataSet/Description.PNG "DataSet Description")
 
 ## EDA and Pre-Processing
 #### All the plots for EDA and Pre-processing are added in the folder [EDA+Preprocessing](https://github.com/RahulSethi070801/ML_Project/tree/main/EDA%2BPreprocessing)
 
+
+![Pipeline](https://github.com/RahulSethi070801/ML_Project/blob/main/EDA+Preprocessing/Preprocessing.PNG "Pre-Processing Steps")
+
+
 ## Methodology 
 #### We performed various ML methods and did analysis for both Oversampled and Undersampled dataset done through sklearn library.
 
-![Pipeline](https://github.com/RahulSethi070801/ML_Project/blob/main/Methodology/Pipeline.PNG)
+![Pipeline](https://github.com/RahulSethi070801/ML_Project/blob/main/Methodology/Pipeline.PNG "Pipeline")
 
 #### Code for both parts : - 
 #### [Oversampled](https://github.com/RahulSethi070801/ML_Project/blob/main/ml_project_oversampled.ipynb)
