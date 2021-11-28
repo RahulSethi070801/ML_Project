@@ -31,9 +31,7 @@
 
 #### Download the entire repository and extract all the files to a folder.<br> There are 2 python notebooks, one for Oversampled data and another for Undersampled data.<br> They can be run using 'Run All' command in the respective IDE.
 
-#### Code for both parts : - 
-#### [Oversampled](https://github.com/RahulSethi070801/ML_Project/blob/main/ml_project_oversampled.ipynb)
-#### [Undersampled](https://github.com/RahulSethi070801/ML_Project/blob/main/ml_project_undersampled.ipynb)
+#### Code for both parts : - <br> [Oversampled](https://github.com/RahulSethi070801/ML_Project/blob/main/ml_project_oversampled.ipynb) <br> [Undersampled](https://github.com/RahulSethi070801/ML_Project/blob/main/ml_project_undersampled.ipynb)
 
 ## Results and Analysis
 #### Refer to [Report_28](https://github.com/RahulSethi070801/ML_Project/blob/main/Report_T28.pdf) for results and analysis(tables included)
