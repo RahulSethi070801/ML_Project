@@ -21,7 +21,7 @@
 ## Methodology 
 #### We performed various ML methods and did analysis for both Oversampled and Undersampled dataset done through sklearn library.
 
-![Pipeline](https://github.com/RahulSethi070801/ML_Project/tree/main/Methodology)
+![Pipeline](https://github.com/RahulSethi070801/ML_Project/blob/main/Methodology/Pipeline.PNG)
 
 #### Code for both parts : - 
 #### [Oversampled](https://github.com/RahulSethi070801/ML_Project/blob/main/ml_project_oversampled.ipynb)
