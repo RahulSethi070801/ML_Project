@@ -15,20 +15,21 @@
 #### You can download the Kaggle Dataset from [here](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package/version/2)
 #### The dataset used is the Australian Rain dataset on kaggle. It contains data for the last 10 years across different regions of Australia. There are 24 columns in the dataset, as shown by Table below
 
-![Pipeline](https://github.com/RahulSethi070801/ML_Project/blob/main/DataSet/Description.PNG?raw=true "DataSet Description")
+![DataSet Description](https://github.com/RahulSethi070801/ML_Project/blob/main/DataSet/Description.PNG?raw=true "DataSet Description")
 
 ## EDA and Pre-Processing
 #### All the plots for EDA and Pre-processing are added in the folder [EDA+Preprocessing](https://github.com/RahulSethi070801/ML_Project/tree/main/EDA%2BPreprocessing)
-
-
-
-![Pipeline](https://github.com/RahulSethi070801/ML_Project/blob/main/EDA%2BPreprocessing/Preprocessing.png "Pre-Processing Steps")
 
 
 ## Methodology 
 #### We performed various ML methods and did analysis for both Oversampled and Undersampled dataset done through sklearn library.
 
 ![Pipeline](https://github.com/RahulSethi070801/ML_Project/blob/main/Methodology/Pipeline.PNG "Pipeline")
+
+
+## Running the Code
+
+#### Download the entire repository and extract all the files to a folder.<br> There are 2 python notebooks, one for Oversampled data and another for Undersampled data.<br> They can be run using 'Run All' command in the respective IDE.
 
 #### Code for both parts : - 
 #### [Oversampled](https://github.com/RahulSethi070801/ML_Project/blob/main/ml_project_oversampled.ipynb)
@@ -37,6 +38,7 @@
 ## Results and Analysis
 #### Refer to [Report_28](https://github.com/RahulSethi070801/ML_Project/blob/main/Report_T28.pdf) for results and analysis(tables included)
 #### All the plots for results are added in the folder [Results](https://github.com/RahulSethi070801/ML_Project/tree/main/Results)
+
 
 ## Contributors
 
