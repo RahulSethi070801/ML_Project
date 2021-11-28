@@ -15,13 +15,14 @@
 #### You can download the Kaggle Dataset from [here](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package/version/2)
 #### The dataset used is the Australian Rain dataset on kaggle. It contains data for the last 10 years across different regions of Australia. There are 24 columns in the dataset, as shown by Table below
 
-![Pipeline](https://github.com/RahulSethi070801/ML_Project/blob/main/DataSet/Description.PNG "DataSet Description")
+![Pipeline](https://github.com/RahulSethi070801/ML_Project/blob/main/DataSet/Description.PNG?raw=true "DataSet Description")
 
 ## EDA and Pre-Processing
 #### All the plots for EDA and Pre-processing are added in the folder [EDA+Preprocessing](https://github.com/RahulSethi070801/ML_Project/tree/main/EDA%2BPreprocessing)
 
 
-![Pipeline](https://github.com/RahulSethi070801/ML_Project/blob/main/EDA+Preprocessing/Preprocessing.PNG "Pre-Processing Steps")
+
+![Pipeline](https://github.com/RahulSethi070801/ML_Project/blob/main/EDA%2BPreprocessing/Preprocessing.png "Pre-Processing Steps")
 
 
 ## Methodology 
